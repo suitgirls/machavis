@@ -2,6 +2,13 @@ body {
       color: darkolivegreen;
       background-color: darkseagreen;
 }
-h1 {color: white; background-color: darkolivegreen}
-h2 {color: darkolivegreen;}
+h1 {
+      color: white; 
+      background-color: darkolivegreen;
+      font-family: 'Dosis', sans-serif;
+}
+h2 {
+      color: darkolivegreen;
+      font-family: 'Dosis', sans-serif;
+}
 a {color: darkolivegreen;}
