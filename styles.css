@@ -14,8 +14,8 @@ h2 {
 
 nav {background-color: darkseagreen;}
 
-nav a {color:darkgreen;}
-nav {color:darkgreen;}
+nav a {color: darkseagreen;}
+nav {color:darkseagreen;}
 
 nav a:hover {background-color: lightgreen;}
 a {color: darkolivegreen;}
