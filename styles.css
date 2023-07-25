@@ -11,4 +11,11 @@ h2 {
       color: darkolivegreen;
       font-family: 'Dosis', sans-serif;
 }
+
+nav {background-color: forestgreen;}
+
+nav a {color:darkgreen;}
+nav {color:darkgreen;}
+
+nav a:hover {background-color: lightgreen;}
 a {color: darkolivegreen;}
