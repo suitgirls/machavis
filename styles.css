@@ -26,7 +26,7 @@ nav a:hover {background-color: lightgreen;}
 div {
     border: 1px solid rgb(11, 39, 8);
     margin: 30px;
-    padding: 30px;
+    padding: 50px;
     background-color: rgb(188, 231, 190);
     border-radius: 25px;
 }
