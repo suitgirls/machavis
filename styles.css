@@ -12,7 +12,11 @@ h2 {
       font-family: 'Dosis', sans-serif;
 }
 
-nav {background-color: darkseagreen;}
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: darkseagreen;
+    }
 
 nav a {color: darkgreen;}
 nav {color:darkgreen;}
